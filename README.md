@@ -4,6 +4,7 @@
 
 ## Agradecimentos:
 
-### Canal  <a url="https://www.youtube.com/@OnlineTutorialsYT">Online tutorials</a>
+### Canal [Online tutorials](https://www.youtube.com/@OnlineTutorialsYT) 
 
-#### <a url="https://www.youtube.com/watch?v=vCvbC0PPbLo">Link do tutorial</a>
+### [Link do tutorial](https://www.youtube.com/watch?v=vCvbC0PPbLo)
+
